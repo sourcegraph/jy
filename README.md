@@ -1,6 +1,6 @@
 # jy
 
-The `jy` command reads JSON from stdin and writes YAML to stdout.
+The `jy` command reads JSON from stdin and writes YAML to stdout (or to a file with the `-o` flag).
 
 Convert YAML to JSON with [yj](https://github.com/sourcegraph/yj).
 
